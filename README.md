@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=bhaveshs6.bhaveshs6&color=00cf00)
+![bhaveshs6's Stats](https://github-readme-stats.vercel.app/api?username=bhaveshs6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
