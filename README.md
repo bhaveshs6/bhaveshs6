@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=bhaveshs6.bhaveshs6&color=00cf00)
 ![bhaveshs6's Stats](https://github-readme-stats.vercel.app/api?username=bhaveshs6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![bhaveshs6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshs6&theme=vue-dark&hide_border=true)
+![bhaveshs6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshs6&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
