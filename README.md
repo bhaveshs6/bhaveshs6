@@ -11,8 +11,6 @@ I'm Bhavesh, a passionate software developer and technology enthusiast.
 
 ![Profile Visitors](https://vbr.wocr.tk/badge?page_id=bhaveshs6.bhaveshs6&color=00cf00)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaveshs6&theme=vue-dark&show_icons=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshs6&theme=vue-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshs6&theme=vue-dark&layout=compact)
