@@ -9,6 +9,8 @@ I'm Bhavesh, a passionate software developer and technology enthusiast.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhaveshs6/)
 - ⚡ Fun fact: I love exploring new programming languages just for fun!
 
+- My CV will soon be available at [bhaveshs6/cv](https://github.com/bhaveshs6/cv)
+
 ![Profile Visitors](https://vbr.wocr.tk/badge?page_id=bhaveshs6.bhaveshs6&color=00cf00)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshs6&theme=vue-dark)
